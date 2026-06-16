@@ -212,6 +212,93 @@ Thank you for confirming that you would like a replacement. I have successfully 
 </div>
 
 </div>
+<div class="section">
+
+<h2>🚚 Order Changes</h2>
+
+<div class="card">
+<p><strong>Order Cannot Be Modified:</strong><br><br>
+Thank you for your patience while I reviewed the details. I completely understand your request and apologize for any frustration this situation may cause. Based on the information available, the order is currently in the processing stage. Once an order reaches this point, modifications can no longer be made through our system. Members have up to 30 minutes after placing an order to make changes or cancellations, and unfortunately that timeframe has already passed. Although I am unable to update the order at this stage, I would be happy to review the available options and provide any additional assistance regarding your order.
+</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+<div class="card">
+<p><strong>Order Cannot Be Cancelled:</strong><br><br>
+I completely understand your concern. Unfortunately, the order is already being processed and can no longer be canceled. Once the item is delivered, you may contact us again to initiate a return request. After the item has been returned and processed, a refund may be issued in accordance with our return policy.
+</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+<div class="card">
+<p><strong>Address Cannot Be Changed:</strong><br><br>
+I understand your concern. Since the order is already being processed, the shipping address can no longer be modified. At this time, we recommend monitoring the shipment. If the package is not successfully received, please contact us once the delivery has been completed so we can review the available options and determine the appropriate resolution.
+</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+</div>
+
+<div class="section">
+
+<h2>❌ Order Cancelled</h2>
+
+<div class="card">
+<p><strong>Cancelled Order:</strong><br><br>
+I completely understand your concern, and I sincerely apologize for any frustration this situation may have caused. After reviewing the order details, I can confirm that the order was canceled. However, I am unable to see a specific reason for the cancellation in the system. I understand this may be disappointing, and I apologize for the lack of information available. In situations like this, any applicable refund is typically processed automatically to the original method of payment. I would be happy to review the refund status and provide any additional information available.
+</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+<div class="card">
+<p><strong>Next Steps:</strong><br><br>
+Although I am unable to determine the exact reason for the cancellation, I would be happy to review the next available steps with you. If a charge was processed, any applicable refund is typically returned to the original payment method. Additionally, if the item is still available, you may place a new order at your convenience.
+</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+</div>
+
+<div class="section">
+
+<h2>🔒 OVT Cancelled</h2>
+
+<div class="card">
+<p><strong>Specialized Department Review:</strong><br><br>
+Thank you for your patience while I reviewed the details. Based on the information available, this matter requires further review by a specialized department. While I am unable to make changes or provide additional details regarding the cancellation at this time, I will ensure that the appropriate request is submitted for review. Once the investigation has been completed, a member of the specialized team will reach out to you within approximately 72 hours via email or phone with additional information and any applicable next steps.
+</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+</div>
+
+<div class="section">
+
+<h2>✅ Closings</h2>
+
+<div class="card">
+<p>
+I'm happy we were able to find a resolution for your concern today. On behalf of Sam's Club, thank you for your membership and for allowing us the opportunity to assist you. If you have any additional questions or concerns in the future, please don't hesitate to contact us. Have a wonderful day and stay safe.
+</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+<div class="card">
+<p>
+Wonderful! Thank you for contacting Sam's Club Member Support today. We truly appreciate your membership. It was my pleasure assisting you, and I hope you have a wonderful rest of your day. Thank you for choosing Sam's Club.
+</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+</div>
 </script>
 
 </body>
