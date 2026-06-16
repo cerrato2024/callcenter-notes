@@ -112,6 +112,11 @@ William's Sam's Club Toolkit
 }
 </script>
 
+
+
+<}
+</script>
+
 <div class="section">
 <h2>❤️ Empathy Statements</h2>
 
