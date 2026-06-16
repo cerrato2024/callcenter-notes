@@ -109,7 +109,10 @@ William's Sam's Club Toolkit
 
 </div>
 <div class="section">
+}
+</script>
 
+<div class="section">
 <h2>❤️ Empathy Statements</h2>
 
 <div class="card">
@@ -299,7 +302,7 @@ Wonderful! Thank you for contacting Sam's Club Member Support today. We truly ap
 </div>
 
 </div>
-</script>
+
 
 </body>
 </html>
