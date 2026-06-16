@@ -108,7 +108,44 @@ William's Sam's Club Toolkit
 </div>
 
 </div>
+<div class="section">
 
+<h2>❤️ Empathy Statements</h2>
+
+<div class="card">
+<p>I completely understand your concern, and I sincerely apologize for any frustration or inconvenience this situation may have caused. I can certainly understand how important it is to have this resolved as quickly as possible. Please rest assured that I'm here to assist you, and I'll do my best to review the details thoroughly and determine the best available resolution for you today.</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+<div class="card">
+<p>I completely understand how concerning this situation must be for you, and on behalf of Sam's Club, I sincerely apologize for the inconvenience. This is certainly not the experience we want for our valued members. Please rest assured that I am here to help, and I will take full ownership of reviewing the details and exploring the best available solution for you.</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+<div class="card">
+<p><strong>Damaged Item:</strong><br><br>
+I completely understand how frustrating and disappointing this situation must be for you. Receiving a damaged item is certainly not the experience we want for our valued members at Sam's Club. On behalf of Sam's Club, I sincerely apologize for the inconvenience this has caused. Please rest assured that I am here to assist you. Let me take a closer look at your order details so I can determine the best available resolution and make this right for you.</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+<div class="card">
+<p><strong>Missing Item:</strong><br><br>
+I completely understand your concern, and I sincerely apologize for the frustration this situation may have caused. I can certainly understand how important it is to receive every item you purchased. At Sam's Club, we strive to provide a seamless shopping experience, and this is certainly not the experience we want for our valued members. Please rest assured that I am here to help. Let me review the order and shipment details to determine what happened and identify the best available resolution for you today.</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+<div class="card">
+<p><strong>Order Delay:</strong><br><br>
+I completely understand your concern, and I sincerely apologize for the frustration this delay may have caused. I can certainly appreciate how important it is to receive your order on time. At Sam's Club, we value our members and understand the importance of a reliable delivery experience. Please rest assured that I am here to help. Let me investigate the order and shipment details, review the most recent tracking information, and explore the best available options to assist you today.</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+</div>
 <script>
 
 function copyCard(button){
