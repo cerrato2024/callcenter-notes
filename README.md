@@ -161,7 +161,57 @@ button.innerText = "📋 Copy";
 },2000);
 
 }
+<div class="section">
 
+<h2>⏳ Hold Scripts</h2>
+
+<div class="card">
+<p><strong>Request Hold:</strong><br><br>
+Please allow me a couple of minutes while I carefully review the order details and investigate this matter further. I want to ensure I provide you with the most accurate information and the best available resolution. I'll be back with an update shortly.
+</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+<div class="card">
+<p><strong>After Hold:</strong><br><br>
+Thank you for your patience while I reviewed the details. I appreciate you taking the time to wait. I have completed my review, and I'd be happy to share the information I found and discuss the next available steps with you.
+</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+</div>
+
+<div class="section">
+
+<h2>🛠️ Solutions</h2>
+
+<div class="card">
+<p><strong>Available Options:</strong><br><br>
+I reviewed the details. Based on my review, I do have a couple of options available for you. I can either process a replacement order so that a new item can be shipped to you, or I can process a refund back to your original method of payment. Please let me know which option works best for you, and I'll be happy to assist you further.
+</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+<div class="card">
+<p><strong>Refund Approved:</strong><br><br>
+Thank you for confirming your preference. I have successfully submitted the refund request of XXXX. You will receive a confirmation email shortly, and the funds will typically be reflected in your account within the next 5 to 7 business days, depending on your financial institution. Is there anything else I can assist you with today?
+</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+<div class="card">
+<p><strong>Replacement Approved:</strong><br><br>
+Thank you for confirming that you would like a replacement. I have successfully submitted the replacement request for you. On behalf of Sam's Club, we appreciate the opportunity to resolve this matter. You should receive a confirmation email shortly, and tracking information will become available once the replacement shipment is processed. Please let me know if there is anything else I can assist you with today.
+</p>
+
+<button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
+</div>
+
+</div>
 </script>
 
 </body>
