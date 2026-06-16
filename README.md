@@ -15,6 +15,7 @@
 body{
   font-family:Arial, sans-serif;
   background:#f4f6f9;
+  min-height:100vh;
 }
 
 header{
@@ -59,7 +60,7 @@ header{
 .card{
   background:#f8f9fa;
   padding:15px;
-  margin-bottom:15px;
+  margin-bottom:20px;
   border-left:5px solid #0057b8;
   border-radius:8px;
 }
@@ -94,10 +95,8 @@ William's Sam's Club Toolkit
 <!-- GREETING -->
 <div class="section">
 <h2>🤝 Greeting</h2>
-
 <div class="card">
 <p>Hello! Thank you for contacting Sam's Club. I hope you're doing well today. My name is William, and I'll be assisting you. To get started, could you please provide the phone number and email address?</p>
-
 <button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
 </div>
 </div>
@@ -107,12 +106,12 @@ William's Sam's Club Toolkit
 <h2>❤️ Empathy Statements</h2>
 
 <div class="card">
-<p>I completely understand your concern, and I sincerely apologize for any frustration this situation may have caused.</p>
+<p>I completely understand your concern and sincerely apologize for the inconvenience.</p>
 <button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
 </div>
 
 <div class="card">
-<p>I completely understand how concerning this situation must be for you, and I sincerely apologize for the inconvenience.</p>
+<p>I understand how frustrating this must be for you, and I truly apologize for the situation.</p>
 <button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
 </div>
 
@@ -123,9 +122,10 @@ William's Sam's Club Toolkit
 <h2>⏳ Hold Scripts</h2>
 
 <div class="card">
-<p>Please allow me a couple of minutes while I carefully review the order details.</p>
+<p>Please allow me a couple of minutes while I review your request. I’ll be right back with an update.</p>
 <button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
 </div>
+
 </div>
 
 <!-- SOLUTIONS -->
@@ -133,9 +133,10 @@ William's Sam's Club Toolkit
 <h2>🛠️ Solutions</h2>
 
 <div class="card">
-<p>I can either process a replacement or a refund. Please let me know which option you prefer.</p>
+<p>I can offer you either a replacement or a refund. Please let me know your preference.</p>
 <button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
 </div>
+
 </div>
 
 <!-- CLOSING -->
@@ -143,9 +144,10 @@ William's Sam's Club Toolkit
 <h2>✅ Closings</h2>
 
 <div class="card">
-<p>Thank you for contacting Sam's Club. It was my pleasure assisting you. Have a wonderful day.</p>
+<p>Thank you for contacting Sam’s Club. It was a pleasure assisting you. Have a great day!</p>
 <button class="copy-btn" onclick="copyCard(this)">📋 Copy</button>
 </div>
+
 </div>
 
 </div>
